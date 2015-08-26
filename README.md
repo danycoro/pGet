@@ -4,6 +4,15 @@ Python HTTP download with resume.
 This file is works on  python3, 
 You can use from terminal just type => python3 pGet.py "and paste the URL"
 
+Download: 
+![Path Helper Demo](https://s3.amazonaws.com/f.cl.ly/items/2t0X1A0z1h1a0G0c101F/download.gif)
+
+The file already exists:
+![Path Helper Demo](https://s3.amazonaws.com/f.cl.ly/items/190v1X3F043G033z1Y1H/already.gif)
+
+Resume a file:
+![Path Helper Demo] (https://s3.amazonaws.com/f.cl.ly/items/2g3F1J0E0k432o0T2c14/resuming.gif)
+
 Uses libraries of python 3 core.
 
 These are the consulted sources:
